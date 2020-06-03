@@ -9,3 +9,4 @@ My screenshots of the output are given in a separate folder.
 I used input tags to make slider output which helps the users to slide the bar to assign the amount of elements they need in their password.
 Below are some screen shot of my output which is generating the passwords randomly according to users choice of total characters they want to make their more secure.
 ![](2020-05-28 (1).png)
+![](2020-05-28.png)
