@@ -10,3 +10,4 @@ I used input tags to make slider output which helps the users to slide the bar t
 Below are some screen shot of my output which is generating the passwords randomly according to users choice of total characters they want to make their more secure.
 ![](2020-05-28 (1).png)
 ![](2020-05-28.png)
+![](2020-05-28(1).png)
