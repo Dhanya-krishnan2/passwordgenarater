@@ -1,4 +1,4 @@
-This is a password Generator program by using javascript. The minimum characters we are using to create a password is 8 according to users requirement and maximum is 128 character.
+``This is a password Generator program by using javascript. The minimum characters we are using to create a password is 8 according to users requirement and maximum is 128 character.``
 I made a program which satisfy the customer requirement by adding uppercase, lowercase(that is by default), special charecters and numbers. 
 To make very clean code I used ASCII code for my program.
 I declared constant values to call function when needed.
